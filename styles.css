@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.generator{
+    font-size: 16px;
+}
+
+label{
+    font-size: 18px;
+}
+
+.input{
+    font-size: 18px;
+}
