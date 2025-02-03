@@ -25,6 +25,12 @@ body{
 
 }
 
+.re-generator{
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: #578FCA;
+}
+
 
 label{
     font-size: 18px;
@@ -40,6 +46,7 @@ label{
     width: 200px;
     height: 200px;
     margin-top: 6%;
+    margin-bottom: 6%;
 
 }
 
