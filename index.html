@@ -8,6 +8,7 @@
     
 </head>
 <body>
+    <div class="main-div">
     <h1>QR Code Generator</h1>
     <h2>Type your URL</h2>
     <div>
@@ -15,7 +16,10 @@
         <input id = "URL" type="text" required>
         <button class="generator">Generate</button>
     </div>
-    <img id="qrcode" src="">
+    <div class="qr-div">
+    <img id="qrcode" src="./blurred_qr_code.png">
+    </div>
+    </div>
 
 
     <script src="https://cdn.jsdelivr.net/npm/qrcode@1.4.4/build/qrcode.min.js"></script>
