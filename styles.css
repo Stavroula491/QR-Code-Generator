@@ -31,6 +31,13 @@ body{
     background-color: #578FCA;
 }
 
+.download{
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: #578FCA;
+    margin-top: 5%;
+}
+
 
 label{
     font-size: 18px;
